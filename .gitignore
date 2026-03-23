@@ -1,0 +1,132 @@
+# =========================
+
+# C / C++ Build Artifacts
+
+# =========================
+
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.app
+*.dll
+
+# Executable files
+
+*.run
+
+# Debug symbols and crash reports
+
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# =========================
+
+# Build Directories
+
+# =========================
+
+build/
+bin/
+lib/
+Debug/
+Release/
+cmake-build-*/
+
+# =========================
+
+# CMake Files
+
+# =========================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+
+# Make / Other Build Systems
+
+# =========================
+
+*.make
+
+# =========================
+
+# Logs and Temporary Files
+
+# =========================
+
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# =========================
+
+# macOS System Files
+
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS thumbnails
+
+._*
+
+# Spotlight and Trash
+
+.Spotlight-V100
+.Trashes
+
+# =========================
+
+# Linux Temporary Files
+
+# =========================
+
+*~
+.nfs*
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# =========================
+
+# JetBrains IDEs (CLion, etc.)
+
+# =========================
+
+.idea/
+
+# =========================
+
+# Vim
+
+# =========================
+
+*.swp
+
+# =========================
+
+# Environment Files
+
+# =========================
+
+.env
+.env.*
+
